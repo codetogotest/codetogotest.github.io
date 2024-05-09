@@ -482,7 +482,7 @@ button.bg-primary:hover {
 }
 .widgets {
   padding-left: 25px;
-  border-left: 1px solid #eee;
+  border-left: 1px solid #fff;
 }
 @media (max-width: 991px) {
   .widgets {

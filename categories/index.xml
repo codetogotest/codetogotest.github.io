@@ -1,67 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ChiuChiu部落格</title>
+    <title>Categories on NSC_Blog</title>
     <link>https://codetogotest.github.io/categories/</link>
-    <description>Recent content in Categories on ChiuChiu部落格</description>
+    <description>Recent content in Categories on NSC_Blog</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 08 May 2024 10:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 10:07:47 +0600</lastBuildDate>
     <atom:link href="https://codetogotest.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>心得</title>
-      <link>https://codetogotest.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+      <title>Learning</title>
+      <link>https://codetogotest.github.io/categories/learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/categories/%E5%BF%83%E5%BE%97/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Android and Gaming</title>
-      <link>https://codetogotest.github.io/categories/android-and-gaming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/categories/android-and-gaming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Go Language</title>
-      <link>https://codetogotest.github.io/categories/go-language/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/categories/go-language/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HTML</title>
-      <link>https://codetogotest.github.io/categories/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/categories/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HTML &amp; CSS</title>
-      <link>https://codetogotest.github.io/categories/html--css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/categories/html--css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming Language</title>
-      <link>https://codetogotest.github.io/categories/programming-language/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/categories/programming-language/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://codetogotest.github.io/categories/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/categories/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web Design</title>
-      <link>https://codetogotest.github.io/categories/web-design/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/categories/web-design/</guid>
+      <guid>https://codetogotest.github.io/categories/learning/</guid>
       <description></description>
     </item>
   </channel>

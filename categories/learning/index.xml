@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on NSC_Blog</title>
-    <link>https://codetogotest.github.io/blog/</link>
-    <description>Recent content in blog on NSC_Blog</description>
+    <title>Learning on NSC_Blog</title>
+    <link>https://codetogotest.github.io/categories/learning/</link>
+    <description>Recent content in Learning on NSC_Blog</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 08 May 2024 10:07:47 +0600</lastBuildDate>
-    <atom:link href="https://codetogotest.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://codetogotest.github.io/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
       <link>https://codetogotest.github.io/blog/post-1/</link>

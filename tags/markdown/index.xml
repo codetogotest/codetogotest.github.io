@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Aki Blog</title>
+    <link>https://codetogotest.github.io/tags/markdown/</link>
+    <description>Recent content in Markdown on Aki Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 12 May 2024 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://codetogotest.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo TEST Learning 3</title>
+      <link>https://codetogotest.github.io/blog/post-4/</link>
+      <pubDate>Sun, 12 May 2024 10:07:47 +0800</pubDate>
+      <guid>https://codetogotest.github.io/blog/post-4/</guid>
+      <description>第三篇測試</description>
+    </item>
+    <item>
+      <title>Markdown 語法學習</title>
+      <link>https://codetogotest.github.io/blog/post-2/</link>
+      <pubDate>Sun, 12 May 2024 10:07:47 +0800</pubDate>
+      <guid>https://codetogotest.github.io/blog/post-2/</guid>
+      <description>Markdown 語法&#xA;1.內文&#xA;2.標題&#xA;3.粗體&#xA;4.斜體&#xA;5.有序序列&#xA;6.無序序列&#xA;7.引用&#xA;8.超連結</description>
+    </item>
+    <item>
+      <title>Demo TEST Learning 1</title>
+      <link>https://codetogotest.github.io/blog/post-5/</link>
+      <pubDate>Sat, 11 May 2024 10:07:47 +0800</pubDate>
+      <guid>https://codetogotest.github.io/blog/post-5/</guid>
+      <description>Markdown 語法&#xA;1.內文&#xA;2.標題&#xA;一級標題 二級標題 三級標題 四級標題 五級標題 六級標題 3.</description>
+    </item>
+  </channel>
+</rss>

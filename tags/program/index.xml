@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Program on Aki Blog</title>
+    <link>https://codetogotest.github.io/tags/program/</link>
+    <description>Recent content in Program on Aki Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 11 May 2024 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://codetogotest.github.io/tags/program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://codetogotest.github.io/blog/post-7/</link>
+      <pubDate>Sat, 11 May 2024 10:07:47 +0800</pubDate>
+      <guid>https://codetogotest.github.io/blog/post-7/</guid>
+      <description>TEST</description>
+    </item>
+  </channel>
+</rss>

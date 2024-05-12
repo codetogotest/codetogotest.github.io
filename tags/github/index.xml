@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on Aki Blog</title>
+    <link>http://localhost:1313/tags/github/</link>
+    <description>Recent content in Github on Aki Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 12 May 2024 10:07:47 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>學習用 Hugo &#43; Markdown &#43; Github 快速架出網站</title>
+      <link>http://localhost:1313/blog/post-1/</link>
+      <pubDate>Sun, 12 May 2024 10:07:47 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post-1/</guid>
+      <description>關於 Hugo&#xA;首頁 https://gohugo.io/&#xA;themes https://themes.gohugo.io/&#xA;https://gohugo.io/getting-started/configuration-markup/#highlight&#xA;https://xyproto.github.io/splash/docs/all.html</description>
+    </item>
+    <item>
+      <title>學習用 Hugo &#43; Markdown &#43; Github 快速架出網站</title>
+      <link>http://localhost:1313/blog/post-2/</link>
+      <pubDate>Sat, 11 May 2024 10:07:47 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post-2/</guid>
+      <description>上課會使用到的連結資訊&#xA;Markdown 語法&#xA;1.內文&#xA;2.標題&#xA;3.粗體&#xA;4.斜體&#xA;5.有序序列&#xA;6.無序序列&#xA;7.引用</description>
+    </item>
+  </channel>
+</rss>

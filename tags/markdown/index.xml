@@ -9,25 +9,11 @@
     <lastBuildDate>Sun, 12 May 2024 10:07:47 +0800</lastBuildDate>
     <atom:link href="https://codetogotest.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Demo TEST Learning 3</title>
-      <link>https://codetogotest.github.io/blog/post-4/</link>
-      <pubDate>Sun, 12 May 2024 10:07:47 +0800</pubDate>
-      <guid>https://codetogotest.github.io/blog/post-4/</guid>
-      <description>第三篇測試</description>
-    </item>
-    <item>
-      <title>學習 Markdown 語法學習</title>
+      <title>學習 Markdown 語法</title>
       <link>https://codetogotest.github.io/blog/post-2/</link>
       <pubDate>Sun, 12 May 2024 10:07:47 +0800</pubDate>
       <guid>https://codetogotest.github.io/blog/post-2/</guid>
-      <description>Markdown 語法&#xA;1.內文&#xA;2.標題&#xA;3.粗體&#xA;4.斜體&#xA;5.有序序列&#xA;6.無序序列&#xA;7.引用&#xA;8.超連結</description>
-    </item>
-    <item>
-      <title>Demo TEST Learning 1</title>
-      <link>https://codetogotest.github.io/blog/post-5/</link>
-      <pubDate>Sat, 11 May 2024 10:07:47 +0800</pubDate>
-      <guid>https://codetogotest.github.io/blog/post-5/</guid>
-      <description>Markdown 語法&#xA;1.內文&#xA;2.標題&#xA;一級標題 二級標題 三級標題 四級標題 五級標題 六級標題 3.</description>
+      <description>Markdown 語法&#xA;Markdown 語法&#xA;1.內文&#xA;2.標題&#xA;一級標題 二級標題 三級標題 四級標題 五級標題 六級標題 3.</description>
     </item>
   </channel>
 </rss>

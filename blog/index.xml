@@ -6,21 +6,21 @@
     <description>Recent content in Aki blog on Aki Blog</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 12 May 2024 10:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 12:11:47 +0800</lastBuildDate>
     <atom:link href="https://codetogotest.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Demo TEST Learning 3</title>
+      <title>學習 RAG 技術</title>
       <link>https://codetogotest.github.io/blog/post-4/</link>
-      <pubDate>Sun, 12 May 2024 10:07:47 +0800</pubDate>
+      <pubDate>Sun, 12 May 2024 12:11:47 +0800</pubDate>
       <guid>https://codetogotest.github.io/blog/post-4/</guid>
-      <description>第三篇測試</description>
+      <description>因電腦太舊跑起來，太常容易當機，會先進確認過後沒問題，再將資料入陸續補上</description>
     </item>
     <item>
-      <title>學習 Markdown 語法學習</title>
+      <title>學習 Markdown 語法</title>
       <link>https://codetogotest.github.io/blog/post-2/</link>
       <pubDate>Sun, 12 May 2024 10:07:47 +0800</pubDate>
       <guid>https://codetogotest.github.io/blog/post-2/</guid>
-      <description>Markdown 語法&#xA;1.內文&#xA;2.標題&#xA;3.粗體&#xA;4.斜體&#xA;5.有序序列&#xA;6.無序序列&#xA;7.引用&#xA;8.超連結</description>
+      <description>Markdown 語法&#xA;Markdown 語法&#xA;1.內文&#xA;2.標題&#xA;一級標題 二級標題 三級標題 四級標題 五級標題 六級標題 3.</description>
     </item>
     <item>
       <title>學習用 Hugo 製作個人網站</title>
@@ -30,32 +30,32 @@
       <description>關於 Hugo&#xA;Hugo https://gohugo.io/&#xA;下載 Hugo 工具 https://gohugo.io/installation/&#xA;Hugo themes https://themes.</description>
     </item>
     <item>
-      <title>學習申請 GA4 並追蹤碼埋入網站</title>
+      <title>學習申請 GA4 將追蹤碼埋入網站</title>
       <link>https://codetogotest.github.io/blog/post-3/</link>
       <pubDate>Sun, 12 May 2024 10:07:47 +0800</pubDate>
       <guid>https://codetogotest.github.io/blog/post-3/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <description>Google Analytics (分析)&#xA;https://analytics.google.com/analytics/web/provision/?pli=1#/provision&#xA;Google Search Console&#xA;https://search.google.com/search-console/about</description>
     </item>
     <item>
       <title>Demo TEST Learning 1</title>
       <link>https://codetogotest.github.io/blog/post-5/</link>
       <pubDate>Sat, 11 May 2024 10:07:47 +0800</pubDate>
       <guid>https://codetogotest.github.io/blog/post-5/</guid>
-      <description>Markdown 語法&#xA;1.內文&#xA;2.標題&#xA;一級標題 二級標題 三級標題 四級標題 五級標題 六級標題 3.</description>
+      <description>TEST pages 功能</description>
     </item>
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
+      <title>Demo TEST Learning 3</title>
       <link>https://codetogotest.github.io/blog/post-7/</link>
       <pubDate>Sat, 11 May 2024 10:07:47 +0800</pubDate>
       <guid>https://codetogotest.github.io/blog/post-7/</guid>
-      <description>TEST</description>
+      <description>TEST pages 功能</description>
     </item>
     <item>
       <title>Demo TEST Learning 2</title>
       <link>https://codetogotest.github.io/blog/post-6/</link>
       <pubDate>Fri, 10 May 2024 10:07:47 +0800</pubDate>
       <guid>https://codetogotest.github.io/blog/post-6/</guid>
-      <description>Hello print(&amp;#34;Hello world&amp;#34;) Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.</description>
+      <description>TEST pages 功能</description>
     </item>
   </channel>
 </rss>

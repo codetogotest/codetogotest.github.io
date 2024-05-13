@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Aki Blog</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 12 May 2024 10:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 12:11:47 +0800</lastBuildDate>
     <atom:link href="https://codetogotest.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://codetogotest.github.io/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://codetogotest.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://codetogotest.github.io/tags/llm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://codetogotest.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RAG</title>
+      <link>https://codetogotest.github.io/tags/rag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://codetogotest.github.io/tags/rag/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Google Analytics(GA4)</title>
       <link>https://codetogotest.github.io/tags/google-analyticsga4/</link>
@@ -58,45 +79,10 @@
       <description></description>
     </item>
     <item>
-      <title>HTML</title>
-      <link>https://codetogotest.github.io/tags/html/</link>
+      <title>TEST</title>
+      <link>https://codetogotest.github.io/tags/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Learning</title>
-      <link>https://codetogotest.github.io/tags/learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/tags/learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Program</title>
-      <link>https://codetogotest.github.io/tags/program/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/tags/program/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://codetogotest.github.io/tags/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI</title>
-      <link>https://codetogotest.github.io/tags/ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Daily</title>
-      <link>https://codetogotest.github.io/tags/daily/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://codetogotest.github.io/tags/daily/</guid>
+      <guid>https://codetogotest.github.io/tags/test/</guid>
       <description></description>
     </item>
   </channel>

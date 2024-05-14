@@ -20,7 +20,7 @@
       <link>https://codetogotest.github.io/blog/post-1/</link>
       <pubDate>Sun, 12 May 2024 10:07:47 +0800</pubDate>
       <guid>https://codetogotest.github.io/blog/post-1/</guid>
-      <description>在學習 Hugo 過程中，有遇到一些小問題，也學習找出問題後，一個一個的排除問題，最後也有執行成功&#xA;感謝古古老師教學，有興趣的人可以至老師網站參考https://kucw.io/&#xA;將學習過程中簡略的整理，會使用到的工具或一些設定相關的連結&#xA;Hugo https://gohugo.io/&#xA;下載 Hugo 工具 (Prebuilt binaries 下點擊 latest release) https://github.</description>
+      <description>在學習 Hugo 過程中，有遇到一些小問題，也學習找出問題後，一個一個的排除問題，最後也有執行成功&#xA;感謝古古老師教學，有興趣的人可以至老師課程網站參考&#xA;將學習過程中簡略的整理，會使用到的工具或一些設定相關的連結&#xA;Hugo https://gohugo.io/&#xA;下載 Hugo 工具 (Prebuilt binaries 下點擊 latest release) https://github.</description>
     </item>
     <item>
       <title>學習申請 GA4 將追蹤碼埋入網站</title>
@@ -28,27 +28,6 @@
       <pubDate>Sun, 12 May 2024 10:07:47 +0800</pubDate>
       <guid>https://codetogotest.github.io/blog/post-3/</guid>
       <description>Google Analytics (分析)&#xA;https://analytics.google.com/analytics/web/provision/?pli=1#/provision&#xA;Google Search Console&#xA;https://search.google.com/search-console/about</description>
-    </item>
-    <item>
-      <title>Demo TEST Learning 1</title>
-      <link>https://codetogotest.github.io/blog/post-5/</link>
-      <pubDate>Sat, 11 May 2024 10:07:47 +0800</pubDate>
-      <guid>https://codetogotest.github.io/blog/post-5/</guid>
-      <description>TEST pages 功能</description>
-    </item>
-    <item>
-      <title>Demo TEST Learning 3</title>
-      <link>https://codetogotest.github.io/blog/post-7/</link>
-      <pubDate>Sat, 11 May 2024 10:07:47 +0800</pubDate>
-      <guid>https://codetogotest.github.io/blog/post-7/</guid>
-      <description>TEST pages 功能</description>
-    </item>
-    <item>
-      <title>Demo TEST Learning 2</title>
-      <link>https://codetogotest.github.io/blog/post-6/</link>
-      <pubDate>Fri, 10 May 2024 10:07:47 +0800</pubDate>
-      <guid>https://codetogotest.github.io/blog/post-6/</guid>
-      <description>TEST pages 功能</description>
     </item>
   </channel>
 </rss>

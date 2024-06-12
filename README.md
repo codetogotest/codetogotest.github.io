@@ -3,5 +3,3 @@
 #### website: [https://codetogotest.github.io](https://codetogotest.github.io)
 
 ###### 搭配Hugo方式呈現blog
-
-website: <a href="https://codetogotest.github.io" target="_blank" rel="noopener noreferrer">https://codetogotest.github.io</a>

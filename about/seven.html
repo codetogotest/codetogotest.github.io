@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mark Seven Lucky Draw</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+      .container {
+        background: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+      }
+      .number {
+        display: inline-block;
+        font-size: 2em;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        margin: 5px;
+        border-radius: 50%;
+        background-color: #007bff;
+        color: white;
+      }
+      #drawButton {
+        margin-top: 20px;
+        padding: 10px 20px;
+        font-size: 1em;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      #drawButton:hover {
+        background-color: #0056b3;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Big Lotto (7 lucky numbers)</h1>
+      <div id="numbers"></div>
+      <button id="drawButton">Draw Numbers</button>
+    </div>
+
+    <script>
+      function drawNumbers() {
+        const numbers = [];
+        while (numbers.length < 7) {
+          const num = Math.floor(Math.random() * 49) + 1;
+          if (!numbers.includes(num)) {
+            numbers.push(num);
+          }
+        }
+        return numbers;
+      }
+
+      function displayNumbers(numbers) {
+        const numbersContainer = document.getElementById("numbers");
+        numbersContainer.innerHTML = "";
+        numbers.forEach((num) => {
+          const numberElement = document.createElement("div");
+          numberElement.className = "number";
+          numberElement.textContent = num;
+          numbersContainer.appendChild(numberElement);
+        });
+      }
+
+      document.getElementById("drawButton").addEventListener("click", () => {
+        const drawnNumbers = drawNumbers();
+        displayNumbers(drawnNumbers);
+      });
+    </script>
+  </body>
+</html>
